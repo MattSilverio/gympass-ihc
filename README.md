@@ -36,11 +36,11 @@ Seja um bom colaborador: Certifique-se de seguir as normas de colaboração da e
 
 
 ## Equipe
-| Imagem | Nome | Contato |
-| --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/56135971?v=4" alt="Imagem 1" width="100" height="100"/> | Ana Leticia | https://github.com/analeticiaa |
-| <img src="https://avatars.githubusercontent.com/u/87550053?v=4" alt="Imagem 2" width="100" height="100"/> | Débora Caires | https://github.com/deboracaires |
-| <img src="https://avatars.githubusercontent.com/u/69125218?v=4" alt="Imagem 3" width="100" height="100"/> | Edilberto | https://github.com/edilbertocantuaria |
-| <img src="https://avatars.githubusercontent.com/u/66387901?v=4" alt="Imagem 4" width="100" height="100"/> | Maciel | https://github.com/macieljuniormax |
-| <img src="https://avatars.githubusercontent.com/u/18178688?v=4" alt="Imagem 5" width="100" height="100"/>| Matheus Phillipo | https://github.com/MattSilverio |
-| <img src="https://avatars.githubusercontent.com/u/88115743?v=4" alt="Imagem 6" width="100" height="100"/> | Sidney | https://github.com/nando3d3 |
+| Imagem | Nome | Contato | Papel |
+| --- | --- | --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/56135971?v=4" alt="Imagem 1" width="100" height="100"/> | Ana Leticia | https://github.com/analeticiaa | Arqueira |
+| <img src="https://avatars.githubusercontent.com/u/87550053?v=4" alt="Imagem 2" width="100" height="100"/> | Débora Caires | https://github.com/deboracaires | Arqueira |
+| <img src="https://avatars.githubusercontent.com/u/69125218?v=4" alt="Imagem 3" width="100" height="100"/> | Edilberto | https://github.com/edilbertocantuaria | Bruxo |
+| <img src="https://avatars.githubusercontent.com/u/66387901?v=4" alt="Imagem 4" width="100" height="100"/> | Maciel | https://github.com/macieljuniormax | Bruxo |
+| <img src="https://avatars.githubusercontent.com/u/18178688?v=4" alt="Imagem 5" width="100" height="100"/>| Matheus Phillipo | https://github.com/MattSilverio | Cavaleiro |
+| <img src="https://avatars.githubusercontent.com/u/88115743?v=4" alt="Imagem 6" width="100" height="100"/> | Sidney | https://github.com/nando3d3 | Sacerdote |
