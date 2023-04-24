@@ -14,6 +14,7 @@ python -m mkdocs build
 ## Comando para deploy
 mkdocs gh-deploy
 
+## para windows
 python -m mkdocs gh-deploy
 ```
 
